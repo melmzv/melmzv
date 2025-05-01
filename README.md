@@ -24,7 +24,7 @@ class Life(Passion, Curiosity):
 
   def interests(self):
     return [
-      "📷 Photography lover",
+      "📷 Street Style Photography enthusiast",
       "🏢 Venture Capital explorer",
       "🛩️ avgeek"
         ]
