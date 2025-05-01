@@ -1,4 +1,4 @@
-<h1 align="center">Hi 🤠, I'm melmzv</h1>
+<h1 align="center">Hi 🤠, I'm Melissa, or melmzv</h1>
 <h3 align="center">📍 Based in Berlin | 🌍 Exploring Global Opportunities</h3>
 
 <p align="left">
