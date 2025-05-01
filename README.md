@@ -25,7 +25,8 @@ class Life(Passion, Curiosity):
   def interests(self):
     return [
       "📷 Photography lover",
-      "🏢 Venture Capital explorer"
+      "🏢 Venture Capital explorer",
+      "🛩️ avgeek"
         ]
 
   def contact_me(self):
