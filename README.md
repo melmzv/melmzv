@@ -46,6 +46,8 @@ You can explore my academic projects below — each paper is designed with repro
 - **Monetary Policy Seminar** – [private repo]  
   Theoretical and policy paper on financial incentives and disclosure environments.
 
+ The private repositories will be made public shortly — stay tuned. ;)
+ 
 ---
 
 <p align="left" style="background-color:#444; color:white; padding:12px 18px; border-radius:20px; display:inline-block; max-width:90%; font-family: -apple-system, BlinkMacSystemFont, sans-serif;">
