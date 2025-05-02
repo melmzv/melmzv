@@ -49,7 +49,7 @@
   <!-- Message 5 -->
   <g class="bubble">
     <!-- y = 221 + 75 + 7 = 303 -->
-    <rect x="5"  y="303" width="458" height="285" rx="18" ry="18"/>
+    <rect x="5"  y="303" width="440" height="285" rx="18" ry="18"/>
     <text  x="25" y="333">Some of my latest academic projects on GitHub:</text>
     <text  x="25" y="363">1. Audit market concentration in the EU</text>
     <text  x="25" y="393">2. Earnings management and investor protection</text>
@@ -64,7 +64,7 @@
   <!-- Message 6 -->
   <g class="bubble">
     <!-- y = 303 + 285 + 7 = 595 -->
-    <rect x="5"  y="595" width="435" height="50" rx="18" ry="18"/>
+    <rect x="5"  y="595" width="440" height="50" rx="18" ry="18"/>
     <text  x="25" y="625">Stay tuned — private repos will go public soon! 🤫</text>
   </g>
 
