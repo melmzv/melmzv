@@ -16,62 +16,62 @@
     }
   </style>
 
-  <!-- Message 1 -->
+  <!-- Message 1 (flush to top) -->
   <g class="bubble">
-    <rect x="5" y="5"   width="155" height="50" rx="18" ry="18"/>
-    <text  x="25" y="35">Hi, I'm Melisa!</text>
+    <rect x="5" y="0"   width="155" height="50" rx="18" ry="18"/>
+    <text  x="25" y="30">Hi, I'm Melisa!</text>
   </g>
 
   <!-- Message 2 -->
   <g class="bubble">
-    <!-- y = 5 + 50 + 7 = 62 -->
-    <rect x="5"  y="62"  width="415" height="75" rx="18" ry="18"/>
-    <text  x="25" y="92">I'm a Finance Specialist in Venture Capital,</text>
-    <text  x="25" y="122">exploring finance, accounting, and technology.</text>
+    <!-- y = 0 + 50 + 7 = 57 -->
+    <rect x="5"  y="57"  width="415" height="75" rx="18" ry="18"/>
+    <text  x="25" y="87">I'm a Finance Specialist in Venture Capital,</text>
+    <text  x="25" y="117">exploring finance, accounting, and technology.</text>
   </g>
 
   <!-- Message 3 -->
   <g class="bubble">
-    <!-- y = 62 + 75 + 7 = 144 -->
-    <rect x="5"  y="144" width="380" height="75" rx="18" ry="18"/>
-    <text  x="25" y="174">Currently kicking off my Master’s Thesis</text>
-    <text  x="25" y="204">in financial accounting at HU Berlin.</text>
+    <!-- y = 57 + 75 + 7 = 139 -->
+    <rect x="5"  y="139" width="380" height="75" rx="18" ry="18"/>
+    <text  x="25" y="169">Currently kicking off my Master’s Thesis</text>
+    <text  x="25" y="199">in financial accounting at HU Berlin.</text>
   </g>
 
   <!-- Message 4 -->
   <g class="bubble">
-    <!-- y = 144 + 75 + 7 = 226 -->
-    <rect x="5" y="226" width="490" height="75" rx="18" ry="18"/>
-    <text x="25" y="255">I work with Python, R, Stata, and ERP systems by day -</text>
-    <text x="25" y="285">and unwind by creating in Pixelmator. 📸</text>
+    <!-- y = 139 + 75 + 7 = 221 -->
+    <rect x="5"  y="221" width="490" height="75" rx="18" ry="18"/>
+    <text  x="25" y="251">I work with Python, R, Stata, and ERP systems by day,</text>
+    <text  x="25" y="281">and unwind by creating in Pixelmator. 📸</text>
   </g>
 
-    <!-- Message 5 -->
+  <!-- Message 5 -->
   <g class="bubble">
-    <!-- y = 226 + 75 + 7 = 308 -->
-    <rect x="5"  y="308" width="458" height="285" rx="18" ry="18"/>
-    <text  x="25" y="338">Some of my latest academic projects:</text>
-    <text  x="25" y="368">1. Audit market concentration in the EU</text>
-    <text  x="25" y="398">2. Earnings management and investor protection</text>
-    <text  x="25" y="428">3. AI-Driven hiring delegation</text>
-    <text  x="25" y="458">4. P/B ratios and future residual income</text>
-    <text  x="25" y="488">5. AI-enhanced satellite imagery in institutional</text>
-    <text  x="25" y="518">   lending decisions</text>
-    <text  x="25" y="548">🌐💻 Inspired by reproducibility and transparency</text>
-    <text  x="25" y="578">principles of TRR 266.</text>
+    <!-- y = 221 + 75 + 7 = 303 -->
+    <rect x="5"  y="303" width="458" height="285" rx="18" ry="18"/>
+    <text  x="25" y="333">Some of my latest academic projects:</text>
+    <text  x="25" y="363">1. Audit market concentration in the EU</text>
+    <text  x="25" y="393">2. Earnings management and investor protection</text>
+    <text  x="25" y="423">3. AI-Driven hiring delegation</text>
+    <text  x="25" y="453">4. P/B ratios and future residual income</text>
+    <text  x="25" y="483">5. AI-enhanced satellite imagery in institutional</text>
+    <text  x="25" y="513">   lending decisions</text>
+    <text  x="25" y="543">🌐💻 Inspired by reproducibility and transparency</text>
+    <text  x="25" y="573">principles of TRR 266.</text>
   </g>
 
   <!-- Message 6 -->
   <g class="bubble">
-    <!-- y = 308 + 285 + 7 = 600 -->
-    <rect x="5"  y="600" width="435" height="50" rx="18" ry="18"/>
-    <text  x="25" y="630">Stay tuned — private repos will go public soon! 🤫</text>
+    <!-- y = 303 + 285 + 7 = 595 -->
+    <rect x="5"  y="595" width="435" height="50" rx="18" ry="18"/>
+    <text  x="25" y="625">Stay tuned — private repos will go public soon! 🤫</text>
   </g>
-  
+
   <!-- Message 7 -->
   <g class="bubble">
-    <!-- y = 600 + 50 + 7 = 657 -->
-    <rect x="5"  y="657" width="310" height="50" rx="18" ry="18"/>
-    <text  x="25" y="687">Feel free to connect on LinkedIn!</text>
+    <!-- y = 595 + 50 + 7 = 652 -->
+    <rect x="5"  y="652" width="310" height="50" rx="18" ry="18"/>
+    <text  x="25" y="682">Feel free to connect on LinkedIn!</text>
   </g>
 </svg>
