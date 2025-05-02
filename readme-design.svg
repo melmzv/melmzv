@@ -50,7 +50,7 @@
   <g class="bubble">
     <!-- y = 221 + 75 + 7 = 303 -->
     <rect x="5"  y="303" width="458" height="285" rx="18" ry="18"/>
-    <text  x="25" y="333">Some of my latest academic projects:</text>
+    <text  x="25" y="333">Some of my latest academic projects on GitHub:</text>
     <text  x="25" y="363">1. Audit market concentration in the EU</text>
     <text  x="25" y="393">2. Earnings management and investor protection</text>
     <text  x="25" y="423">3. AI-Driven hiring delegation</text>
@@ -71,7 +71,7 @@
   <!-- Message 7 -->
   <g class="bubble">
     <!-- y = 595 + 50 + 7 = 652 -->
-    <rect x="5"  y="652" width="310" height="50" rx="18" ry="18"/>
-    <text  x="25" y="682">Feel free to connect on LinkedIn!</text>
+    <rect x="5"  y="652" width="510" height="50" rx="18" ry="18"/>
+    <text  x="25" y="682">Open to collaboration — feel free to reach out on LinkedIn!</text>
   </g>
 </svg>
