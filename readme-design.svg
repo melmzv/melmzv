@@ -23,8 +23,8 @@
 
   <!-- Message 1 -->
   <g class="bubble">
-    <rect x="20" y="50" width="300" height="50" rx="18" ry="18"></rect>
-    <text x="40" y="80">Hi, I'm [Your Name].</text>
+    <rect x="20" y="50" width="150" height="50" rx="18" ry="18"></rect>
+    <text x="40" y="80">Hi, I'm Melisa! </text>
   </g>
 
   <!-- Message 2 -->
