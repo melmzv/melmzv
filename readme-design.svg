@@ -29,14 +29,14 @@
 
   <!-- Message 2 (split into multiple lines) -->
   <g class="bubble">
-    <rect x="20" y="120" width="500" height="100" rx="18" ry="18"></rect>
+    <rect x="20" y="120" width="500" height="75" rx="18" ry="18"></rect>
     <text x="40" y="150">I'm a Finance Specialist in Venture Capital,</text>
     <text x="40" y="180">exploring finance, accounting and technology.</text>
   </g>
 
   <!-- Message 3 (split into multiple lines) -->
   <g class="bubble">
-    <rect x="20" y="240" width="500" height="100" rx="18" ry="18"></rect>
+    <rect x="20" y="240" width="500" height="75" rx="18" ry="18"></rect>
     <text x="40" y="270">Currently kicking off my Master’s Thesis</text>
     <text x="40" y="300">in financial accounting at HU Berlin.</text>
   </g>
