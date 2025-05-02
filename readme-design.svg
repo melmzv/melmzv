@@ -27,43 +27,44 @@
     <text x="40" y="80">Hello, I'm Melisa. I optimize decisions</text>
   </g>
 
-  <!-- Message 2 -->
+  <!-- Message 2 (split into multiple lines) -->
   <g class="bubble">
-    <rect x="20" y="120" width="500" height="80" rx="18" ry="18"></rect>
-    <text x="40" y="160">I'm a Finance Specialist in Venture Capital, exploring finance and technology.</text>
+    <rect x="20" y="120" width="500" height="100" rx="18" ry="18"></rect>
+    <text x="40" y="150">I'm a Finance Specialist in Venture Capital,</text>
+    <text x="40" y="180">exploring finance and technology.</text>
   </g>
 
-  <!-- Message 3 -->
+  <!-- Message 3 (split into multiple lines) -->
   <g class="bubble">
-    <rect x="20" y="220" width="500" height="80" rx="18" ry="18"></rect>
-    <text x="40" y="260">Currently working on my Master’s Thesis in financial accounting and governance.</text>
+    <rect x="20" y="240" width="500" height="100" rx="18" ry="18"></rect>
+    <text x="40" y="270">Currently working on my Master’s Thesis</text>
+    <text x="40" y="300">in financial accounting and governance.</text>
   </g>
 
   <!-- Message 4 -->
   <g class="bubble">
-    <rect x="20" y="320" width="500" height="50" rx="18" ry="18"></rect>
-    <text x="40" y="350">Fluent in Python, SQL, R, Stata, and LaTeX.</text>
+    <rect x="20" y="360" width="500" height="50" rx="18" ry="18"></rect>
+    <text x="40" y="390">Fluent in Python, SQL, R, Stata, and LaTeX.</text>
   </g>
 
-  <!-- Message 5 -->
+  <!-- Message 5 (split into multiple lines) -->
   <g class="bubble">
-    <rect x="20" y="400" width="500" height="80" rx="18" ry="18"></rect>
-    <text x="40" y="440">Explore my academic projects:
-      - Audit market concentration in the EU
-      - Earnings management and investor protection
-      - P/B ratios and future residual income.
-    </text>
+    <rect x="20" y="440" width="500" height="120" rx="18" ry="18"></rect>
+    <text x="40" y="470">Explore my academic projects:</text>
+    <text x="40" y="500">- Audit market concentration in the EU</text>
+    <text x="40" y="530">- Earnings management and investor protection</text>
+    <text x="40" y="560">- P/B ratios and future residual income</text>
   </g>
 
   <!-- Message 6 -->
   <g class="bubble">
-    <rect x="20" y="500" width="500" height="50" rx="18" ry="18"></rect>
-    <text x="40" y="530">Stay tuned — private repos will go public soon!</text>
+    <rect x="20" y="580" width="500" height="50" rx="18" ry="18"></rect>
+    <text x="40" y="610">Stay tuned — private repos will go public soon!</text>
   </g>
 
   <!-- Message 7 -->
   <g class="bubble">
-    <rect x="20" y="580" width="500" height="50" rx="18" ry="18"></rect>
-    <text x="40" y="610">Feel free to connect on GitHub or LinkedIn!</text>
+    <rect x="20" y="660" width="500" height="50" rx="18" ry="18"></rect>
+    <text x="40" y="690">Feel free to connect on GitHub or LinkedIn!</text>
   </g>
 </svg>
