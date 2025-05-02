@@ -1,70 +1,67 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="550px" height="684px" viewBox="0 0 550 684">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="550px" height="800px" viewBox="0 0 550 800">
   <style>
-    /* General styles for bubbles */
-    .bubble {
-      fill: #e9e9eb; /* Light mode bubble color */
-    }
+    .bubble { fill: #e9e9eb; }
     text {
       font-family: 'Inter', sans-serif;
       font-size: 18px;
-      fill: #242424; /* Light mode text color */
+      fill: #242424;
     }
-
-    /* Dark mode support */
     @media (prefers-color-scheme: dark) {
-      .bubble {
-        fill: #3b3b3d; /* Dark mode bubble color */
-      }
-      text {
-        fill: #fafafa; /* Dark mode text color */
-      }
+      .bubble { fill: #3b3b3d; }
+      text { fill: #fafafa; }
     }
   </style>
 
   <!-- Message 1 -->
   <g class="bubble">
-    <rect x="20" y="50" width="190" height="50" rx="18" ry="18"></rect>
+    <rect x="20" y="50" width="190" height="50" rx="18" ry="18"/>
     <text x="40" y="80">Hello, I'm Melisa!</text>
   </g>
 
-  <!-- Message 2 (split into multiple lines) -->
+  <!-- Message 2 -->
   <g class="bubble">
-    <rect x="20" y="120" width="500" height="75" rx="18" ry="18"></rect>
-    <text x="40" y="150">I'm a Finance Specialist in Venture Capital,</text>
-    <text x="40" y="180">exploring finance, accounting and technology.</text>
+    <!-- y = 50 + 50 + 10 = 110 -->
+    <rect x="20" y="110" width="500" height="75" rx="18" ry="18"/>
+    <text x="40" y="140">I'm a Finance Specialist in Venture Capital,</text>
+    <text x="40" y="170">exploring finance, accounting and technology.</text>
   </g>
 
-  <!-- Message 3 (split into multiple lines) -->
+  <!-- Message 3 -->
   <g class="bubble">
-    <rect x="20" y="240" width="500" height="75" rx="18" ry="18"></rect>
-    <text x="40" y="270">Currently kicking off my Master’s Thesis</text>
-    <text x="40" y="300">in financial accounting at HU Berlin.</text>
+    <!-- y = 110 + 75 + 10 = 195 -->
+    <rect x="20" y="195" width="500" height="75" rx="18" ry="18"/>
+    <text x="40" y="225">Currently kicking off my Master’s Thesis</text>
+    <text x="40" y="255">in financial accounting at HU Berlin.</text>
   </g>
 
   <!-- Message 4 -->
   <g class="bubble">
-    <rect x="20" y="360" width="540" height="50" rx="18" ry="18"></rect>
-    <text x="40" y="390">I work in Python, R, Stata, SQL and Pixelmator as hobby. ;)</text>
+    <!-- y = 195 + 75 + 10 = 280 -->
+    <rect x="20" y="280" width="540" height="50" rx="18" ry="18"/>
+    <text x="40" y="310">I work in Python, R, Stata, SQL and Pixelmator as hobby. ;)</text>
   </g>
 
-  <!-- Message 5 (split into multiple lines) -->
+  <!-- Message 5 -->
   <g class="bubble">
-    <rect x="20" y="440" width="500" height="135" rx="18" ry="18"></rect>
-    <text x="40" y="470">Some of my latest academic projects:</text>
-    <text x="40" y="500">- Audit market concentration in the EU</text>
-    <text x="40" y="530">- Earnings management and investor protection</text>
-    <text x="40" y="560">- P/B ratios and future residual income</text>
+    <!-- y = 280 + 50 + 10 = 340 -->
+    <rect x="20" y="340" width="500" height="135" rx="18" ry="18"/>
+    <text x="40" y="370">Some of my latest academic projects:</text>
+    <text x="40" y="400">- Audit market concentration in the EU</text>
+    <text x="40" y="430">- Earnings management and investor protection</text>
+    <text x="40" y="460">- P/B ratios and future residual income</text>
   </g>
 
   <!-- Message 6 -->
   <g class="bubble">
-    <rect x="20" y="580" width="500" height="50" rx="18" ry="18"></rect>
-    <text x="40" y="610">Stay tuned — private repos will go public soon!</text>
+    <!-- y = 340 + 135 + 10 = 485 -->
+    <rect x="20" y="485" width="500" height="50" rx="18" ry="18"/>
+    <text x="40" y="515">Stay tuned — private repos will go public soon!</text>
   </g>
 
   <!-- Message 7 -->
   <g class="bubble">
-    <rect x="20" y="660" width="500" height="50" rx="18" ry="18"></rect>
-    <text x="40" y="690">Feel free to connect on GitHub or LinkedIn!</text>
+    <!-- y = 485 + 50 + 10 = 545 -->
+    <rect x="20" y="545" width="500" height="50" rx="18" ry="18"/>
+    <text x="40" y="575">Feel free to connect on GitHub or LinkedIn!</text>
   </g>
 </svg>
