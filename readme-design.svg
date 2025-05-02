@@ -44,7 +44,7 @@
   <!-- Message 4 -->
   <g class="bubble">
     <rect x="20" y="360" width="540" height="50" rx="18" ry="18"></rect>
-    <text x="40" y="390">I work in Python, R, Stata, SQL, Java and Pixelmator as hobby. ;)</text>
+    <text x="40" y="390">I work in Python, R, Stata, SQL and Pixelmator as hobby. ;)</text>
   </g>
 
   <!-- Message 5 (split into multiple lines) -->
