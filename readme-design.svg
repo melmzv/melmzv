@@ -50,13 +50,13 @@
     <!-- y = 226 + 50 + 7 = 283 -->
     <rect x="5"  y="283" width="458" height="285" rx="18" ry="18"/>
     <text  x="25" y="313">Some of my latest academic projects:</text>
-    <text  x="25" y="343">1. Audit market concentration in the EU 🔍</text>
-    <text  x="25" y="373">2. Earnings management and investor protection 💰</text>
-    <text  x="25" y="403">3. AI-Driven Hiring Delegation 🤖</text>
-    <text  x="25" y="433">4. P/B ratios and future residual income 💹</text>
+    <text  x="25" y="343">1. Audit market concentration in the EU</text>
+    <text  x="25" y="373">2. Earnings management and investor protection</text>
+    <text  x="25" y="403">3. AI-Driven Hiring Delegation</text>
+    <text  x="25" y="433">4. P/B ratios and future residual income</text>
     <text  x="25" y="463">5. AI-Enhanced Satellite Imagery in Institutional</text>
-    <text  x="25" y="493">  Lending Decisions 🛰️</text>
-    <text  x="25" y="523"> 🌐Inspired by reproducibility and transparency</text>
+    <text  x="25" y="493">  Lending Decisions </text>
+    <text  x="25" y="523"> 🌐💻 Inspired by reproducibility and transparency</text>
     <text  x="25" y="553">principles of TRR 266. </text>
   </g>
 
