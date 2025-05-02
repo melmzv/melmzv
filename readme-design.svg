@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg"
      xmlns:xlink="http://www.w3.org/1999/xlink"
      width="550px"
-     height="650px"
+     height="760px"
      viewBox="0 0 550 700">
   <style>
     .bubble { fill: #e9e9eb; }
@@ -27,7 +27,7 @@
     <!-- y = 5 + 50 + 7 = 62 -->
     <rect x="5"  y="62"  width="415" height="75" rx="18" ry="18"/>
     <text  x="25" y="92">I'm a Finance Specialist in Venture Capital,</text>
-    <text  x="25" y="122">exploring finance, accounting and technology.</text>
+    <text  x="25" y="122">exploring finance, accounting, and technology.</text>
   </g>
 
   <!-- Message 3 -->
@@ -41,36 +41,37 @@
   <!-- Message 4 -->
   <g class="bubble">
     <!-- y = 144 + 75 + 7 = 226 -->
-    <rect x="5"  y="226" width="520" height="50" rx="18" ry="18"/>
-    <text  x="25" y="256">I work in Python, R, Stata, ERPs and Pixelmator as hobby. 📸</text>
+    <rect x="5" y="226" width="490" height="75" rx="18" ry="18"/>
+    <text x="25" y="255">I work with Python, R, Stata, and ERP systems by day -</text>
+    <text x="25" y="285">and unwind by creating in Pixelmator. 📸</text>
   </g>
 
-  <!-- Message 5 -->
+    <!-- Message 5 -->
   <g class="bubble">
-    <!-- y = 226 + 50 + 7 = 283 -->
-    <rect x="5"  y="283" width="458" height="285" rx="18" ry="18"/>
-    <text  x="25" y="313">Some of my latest academic projects:</text>
-    <text  x="25" y="343">1. Audit market concentration in the EU</text>
-    <text  x="25" y="373">2. Earnings management and investor protection</text>
-    <text  x="25" y="403">3. AI-Driven Hiring Delegation</text>
-    <text  x="25" y="433">4. P/B ratios and future residual income</text>
-    <text  x="25" y="463">5. AI-Enhanced Satellite Imagery in Institutional</text>
-    <text  x="25" y="493">  Lending Decisions </text>
-    <text  x="25" y="523"> 🌐💻 Inspired by reproducibility and transparency</text>
-    <text  x="25" y="553">principles of TRR 266. </text>
+    <!-- y = 226 + 75 + 7 = 308 -->
+    <rect x="5"  y="308" width="458" height="285" rx="18" ry="18"/>
+    <text  x="25" y="338">Some of my latest academic projects:</text>
+    <text  x="25" y="368">1. Audit market concentration in the EU</text>
+    <text  x="25" y="398">2. Earnings management and investor protection</text>
+    <text  x="25" y="428">3. AI-Driven hiring delegation</text>
+    <text  x="25" y="458">4. P/B ratios and future residual income</text>
+    <text  x="25" y="488">5. AI-enhanced satellite imagery in institutional</text>
+    <text  x="25" y="518">   lending decisions</text>
+    <text  x="25" y="548">🌐💻 Inspired by reproducibility and transparency</text>
+    <text  x="25" y="578">principles of TRR 266.</text>
   </g>
 
   <!-- Message 6 -->
   <g class="bubble">
-    <!-- y = 283 + 285 + 7 = 575 -->
-    <rect x="5"  y="575" width="435" height="50" rx="18" ry="18"/>
-    <text  x="25" y="605">Stay tuned — private repos will go public soon! 🤫</text>
+    <!-- y = 308 + 285 + 7 = 600 -->
+    <rect x="5"  y="600" width="435" height="50" rx="18" ry="18"/>
+    <text  x="25" y="630">Stay tuned — private repos will go public soon! 🤫</text>
   </g>
   
   <!-- Message 7 -->
   <g class="bubble">
-    <!-- y = 575 + 50 + 7 = 632 -->
-    <rect x="5"  y="632" width="310" height="50" rx="18" ry="18"/>
-    <text  x="25" y="662">Feel free to connect on LinkedIn!</text>
+    <!-- y = 600 + 50 + 7 = 657 -->
+    <rect x="5"  y="657" width="310" height="50" rx="18" ry="18"/>
+    <text  x="25" y="687">Feel free to connect on LinkedIn!</text>
   </g>
 </svg>
