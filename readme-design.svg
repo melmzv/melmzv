@@ -23,24 +23,47 @@
 
   <!-- Message 1 -->
   <g class="bubble">
-    <rect x="20" y="50" width="150" height="50" rx="18" ry="18"></rect>
-    <text x="40" y="80">Hi, I'm Melisa! </text>
+    <rect x="20" y="50" width="400" height="50" rx="18" ry="18"></rect>
+    <text x="40" y="80">Hello, I'm Melisa. I optimize decisions</text>
   </g>
 
   <!-- Message 2 -->
   <g class="bubble">
     <rect x="20" y="120" width="500" height="80" rx="18" ry="18"></rect>
-    <text x="40" y="160">I'm passionate about [Your Passion/Field] and love building [Your Projects/Work].</text>
+    <text x="40" y="160">I'm a Finance Specialist in Venture Capital, exploring finance and technology.</text>
   </g>
 
-    <!-- Message 3 (LinkedIn) -->
-    <g class="bubble">
-      <rect x="20" y="220" width="520" height="66" rx="18" ry="18"/>
-      <text x="40" y="250">You can find me on LinkedIn at</text>
-      <a xlink:href="https://www.linkedin.com/in/melisamazaeva" target="_blank">
-        <text x="40" y="274" fill="#0079ff">linkedin.com/in/melisamazaeva</text>
-      </a>
-    </g>
-  
-  <!-- Add more static messages as needed -->
+  <!-- Message 3 -->
+  <g class="bubble">
+    <rect x="20" y="220" width="500" height="80" rx="18" ry="18"></rect>
+    <text x="40" y="260">Currently working on my Master’s Thesis in financial accounting and governance.</text>
+  </g>
+
+  <!-- Message 4 -->
+  <g class="bubble">
+    <rect x="20" y="320" width="500" height="50" rx="18" ry="18"></rect>
+    <text x="40" y="350">Fluent in Python, SQL, R, Stata, and LaTeX.</text>
+  </g>
+
+  <!-- Message 5 -->
+  <g class="bubble">
+    <rect x="20" y="400" width="500" height="80" rx="18" ry="18"></rect>
+    <text x="40" y="440">Explore my academic projects:
+      - Audit market concentration in the EU
+      - Earnings management and investor protection
+      - P/B ratios and future residual income.
+    </text>
+  </g>
+
+  <!-- Message 6 -->
+  <g class="bubble">
+    <rect x="20" y="500" width="500" height="50" rx="18" ry="18"></rect>
+    <text x="40" y="530">Stay tuned — private repos will go public soon!</text>
+  </g>
+
+  <!-- Message 7 -->
+  <g class="bubble">
+    <rect x="20" y="580" width="500" height="50" rx="18" ry="18"></rect>
+    <text x="40" y="610">Feel free to connect on GitHub or LinkedIn!</text>
+  </g>
 </svg>
