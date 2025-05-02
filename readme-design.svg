@@ -33,16 +33,14 @@
     <text x="40" y="160">I'm passionate about [Your Passion/Field] and love building [Your Projects/Work].</text>
   </g>
 
-  <!-- LinkedIn -->
-  <g transform="translate(10, 220)" class="msg-3">
-    <rect width="520" height="66" rx="18" class="bubble" />
-    <text x="15" y="27">You can find me on LinkedIn at</text>
-    <text x="15" y="50">
-      <a xlink:href="https://www.linkedin.com/in/melisamazaeva" fill="#0079ff" target="_blank">
-        linkedin.com/in/melisamazaeva
-      </a>
-    </text>
+  <!-- Message 3 (LinkedIn) -->
+  <g class="bubble">
+    <rect x="20" y="220" width="520" height="66" rx="18" ry="18"/>
+    <text x="40" y="250">You can find me on LinkedIn at</text>
+    <a xlink:href="https://www.linkedin.com/in/melisamazaeva" target="_blank">
+      <text x="40" y="274" fill="#0079ff">linkedin.com/in/melisamazaeva</text>
+    </a>
   </g>
-
+  
   <!-- Add more static messages as needed -->
 </svg>
