@@ -15,7 +15,7 @@
   <!-- Message 1 -->
   <g class="bubble">
     <rect x="20" y="50" width="175" height="50" rx="18" ry="18"/>
-    <text x="40" y="80">Hello, I'm Melisa!</text>
+    <text x="40" y="80">Hi, I'm Melisa!</text>
   </g>
 
   <!-- Message 2 -->
@@ -37,8 +37,8 @@
   <!-- Message 4 -->
   <g class="bubble">
     <!-- y = 195 + 75 + 10 = 280 -->
-    <rect x="20" y="280" width="500" height="50" rx="18" ry="18"/>
-    <text x="40" y="310">I work in Python, R, Stata, SQL and Pixelmator as hobby. </text>
+    <rect x="20" y="280" width="510" height="50" rx="18" ry="18"/>
+    <text x="40" y="310">I work in Python, R, Stata, SQL and Pixelmator as hobby. 📸 </text>
   </g>
 
   <!-- Message 5 -->
