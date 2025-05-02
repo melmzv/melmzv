@@ -1,1 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="550px" height="684px" viewBox="0 0 550 684">
+  <style>
+    /* General styles for bubbles */
+    .bubble {
+      fill: #e9e9eb; /* Light mode bubble color */
+    }
+    text {
+      font-family: 'Inter', sans-serif;
+      font-size: 18px;
+      fill: #242424; /* Light mode text color */
+    }
 
+    /* Dark mode support */
+    @media (prefers-color-scheme: dark) {
+      .bubble {
+        fill: #3b3b3d; /* Dark mode bubble color */
+      }
+      text {
+        fill: #fafafa; /* Dark mode text color */
+      }
+    }
+  </style>
+
+  <!-- Message 1 -->
+  <g class="bubble">
+    <rect x="20" y="50" width="300" height="50" rx="18" ry="18"></rect>
+    <text x="40" y="80">Hi, I'm [Your Name].</text>
+  </g>
+
+  <!-- Message 2 -->
+  <g class="bubble">
+    <rect x="20" y="120" width="500" height="80" rx="18" ry="18"></rect>
+    <text x="40" y="160">I'm passionate about [Your Passion/Field] and love building [Your Projects/Work].</text>
+  </g>
+
+  <!-- Message 3 -->
+  <g class="bubble">
+    <rect x="20" y="220" width="400" height="50" rx="18" ry="18"></rect>
+    <text x="40" y="250">Feel free to connect with me on [Your Platform/Link].</text>
+  </g>
+
+  <!-- Add more static messages as needed -->
+</svg>
