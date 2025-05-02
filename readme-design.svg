@@ -14,7 +14,7 @@
 
   <!-- Message 1 -->
   <g class="bubble">
-    <rect x="20" y="50" width="175" height="50" rx="18" ry="18"/>
+    <rect x="20" y="50" width="155" height="50" rx="18" ry="18"/>
     <text x="40" y="80">Hi, I'm Melisa!</text>
   </g>
 
@@ -38,30 +38,33 @@
   <g class="bubble">
     <!-- y = 195 + 75 + 10 = 280 -->
     <rect x="20" y="280" width="510" height="50" rx="18" ry="18"/>
-    <text x="40" y="310">I work in Python, R, Stata, SQL and Pixelmator as hobby. 📸 </text>
+    <text x="40" y="310">I work in Python, R, Stata, ERPs and Pixelmator as hobby. 📸 </text>
   </g>
 
   <!-- Message 5 -->
   <g class="bubble">
-    <!-- y = 280 + 50 + 10 = 340 -->
-    <rect x="20" y="340" width="458" height="135" rx="18" ry="18"/>
+    <rect x="20" y="344" width="458" height="285" rx="18" ry="18"/>
     <text x="40" y="370">Some of my latest academic projects:</text>
     <text x="40" y="400">- Audit market concentration in the EU</text>
     <text x="40" y="430">- Earnings management and investor protection</text>
     <text x="40" y="460">- P/B ratios and future residual income</text>
+    <text x="40" y="490">- AI-Driven Hiring Delegation</text>
+    <text x="40" y="520">- AI-Enhanced Satellite Imagery in Institutional</text>
+    <text x="40" y="550">  Lending Decisions</text>
+    <text x="40" y="580">Inspired by reproducibility and transparency</text>
+    <text x="40" y="610">principles of TRR 266. 💻</text>
   </g>
 
   <!-- Message 6 -->
   <g class="bubble">
-    <!-- y = 340 + 135 + 10 = 485 -->
-    <rect x="20" y="485" width="435" height="50" rx="18" ry="18"/>
-    <text x="40" y="515">Stay tuned — private repos will go public soon! 🤫</text>
+    <!-- y = 340 + 270 + 10 = 620 -->
+    <rect x="20" y="640" width="435" height="47" rx="18" ry="18"/>
+    <text x="40" y="669">Stay tuned — private repos will go public soon! 🤫</text>
   </g>
-
+  
   <!-- Message 7 -->
   <g class="bubble">
-    <!-- y = 485 + 50 + 10 = 545 -->
-    <rect x="20" y="545" width="310" height="50" rx="18" ry="18"/>
-    <text x="40" y="575">Feel free to connect on LinkedIn!</text>
+    <rect x="20" y="690" width="310" height="50" rx="18" ry="18"/>
+    <text x="40" y="719">Feel free to connect on LinkedIn!</text>
   </g>
 </svg>
