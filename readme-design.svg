@@ -35,8 +35,11 @@
 
   <!-- Message 3 -->
   <g class="bubble">
-    <rect x="20" y="220" width="400" height="50" rx="18" ry="18"></rect>
-    <text x="40" y="250">Feel free to connect with me on [Your Platform/Link].</text>
+    <rect x="20" y="220" width="520" height="70" rx="18" ry="18"></rect>
+    <text x="40" y="250">You can find me on LinkedIn at:</text>
+    <a xlink:href="https://www.linkedin.com/in/melisamazaeva" target="_blank">
+      <text x="40" y="270" fill="#0079ff">linkedin.com/in/melisamazaeva</text>
+    </a>
   </g>
 
   <!-- Add more static messages as needed -->
