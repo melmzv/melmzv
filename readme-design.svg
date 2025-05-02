@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="550px" height="800px" viewBox="0 0 550 800">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="550px" height="755px" viewBox="0 0 550 755">
   <style>
     .bubble { fill: #e9e9eb; }
     text {
@@ -14,57 +14,59 @@
 
   <!-- Message 1 -->
   <g class="bubble">
-    <rect x="20" y="50" width="155" height="50" rx="18" ry="18"/>
-    <text x="40" y="80">Hi, I'm Melisa!</text>
+    <rect x="20" y="5" width="155" height="50" rx="18" ry="18"/>
+    <text x="40" y="35">Hi, I'm Melisa!</text>
   </g>
 
   <!-- Message 2 -->
   <g class="bubble">
-    <!-- y = 50 + 50 + 10 = 110 -->
-    <rect x="20" y="110" width="415" height="75" rx="18" ry="18"/>
-    <text x="40" y="140">I'm a Finance Specialist in Venture Capital,</text>
-    <text x="40" y="170">exploring finance, accounting and technology.</text>
+    <!-- y = 5 + 50 + 10 = 65 -->
+    <rect x="20" y="65" width="415" height="75" rx="18" ry="18"/>
+    <text x="40" y="95">I'm a Finance Specialist in Venture Capital,</text>
+    <text x="40" y="125">exploring finance, accounting and technology.</text>
   </g>
 
   <!-- Message 3 -->
   <g class="bubble">
-    <!-- y = 110 + 75 + 10 = 195 -->
-    <rect x="20" y="195" width="380" height="75" rx="18" ry="18"/>
-    <text x="40" y="225">Currently kicking off my Master’s Thesis</text>
-    <text x="40" y="255">in financial accounting at HU Berlin.</text>
+    <!-- y = 65 + 75 + 10 = 150 -->
+    <rect x="20" y="150" width="380" height="75" rx="18" ry="18"/>
+    <text x="40" y="180">Currently kicking off my Master’s Thesis</text>
+    <text x="40" y="210">in financial accounting at HU Berlin.</text>
   </g>
 
   <!-- Message 4 -->
   <g class="bubble">
-    <!-- y = 195 + 75 + 10 = 280 -->
-    <rect x="20" y="280" width="510" height="50" rx="18" ry="18"/>
-    <text x="40" y="310">I work in Python, R, Stata, ERPs and Pixelmator as hobby. 📸 </text>
+    <!-- y = 150 + 75 + 10 = 235 -->
+    <rect x="20" y="235" width="510" height="50" rx="18" ry="18"/>
+    <text x="40" y="265">I work in Python, R, Stata, ERPs and Pixelmator as hobby. 📸</text>
   </g>
 
   <!-- Message 5 -->
   <g class="bubble">
-    <rect x="20" y="344" width="458" height="285" rx="18" ry="18"/>
-    <text x="40" y="370">Some of my latest academic projects:</text>
-    <text x="40" y="400">- Audit market concentration in the EU</text>
-    <text x="40" y="430">- Earnings management and investor protection</text>
-    <text x="40" y="460">- P/B ratios and future residual income</text>
-    <text x="40" y="490">- AI-Driven Hiring Delegation</text>
-    <text x="40" y="520">- AI-Enhanced Satellite Imagery in Institutional</text>
-    <text x="40" y="550">  Lending Decisions</text>
-    <text x="40" y="580">Inspired by reproducibility and transparency</text>
-    <text x="40" y="610">principles of TRR 266. 💻</text>
+    <!-- y = 235 + 50 + 10 = 295 -->
+    <rect x="20" y="295" width="458" height="280" rx="18" ry="18"/>
+    <text x="40" y="325">Some of my latest academic projects:</text>
+    <text x="40" y="355">- Audit market concentration in the EU</text>
+    <text x="40" y="385">- Earnings management and investor protection</text>
+    <text x="40" y="415">- P/B ratios and future residual income</text>
+    <text x="40" y="445">- AI-Driven Hiring Delegation</text>
+    <text x="40" y="475">- AI-Enhanced Satellite Imagery in Institutional</text>
+    <text x="40" y="505">  Lending Decisions</text>
+    <text x="40" y="535">Inspired by reproducibility and transparency</text>
+    <text x="40" y="565">principles of TRR 266. 💻</text>
   </g>
 
   <!-- Message 6 -->
   <g class="bubble">
-    <!-- y = 340 + 270 + 10 = 620 -->
-    <rect x="20" y="640" width="435" height="47" rx="18" ry="18"/>
-    <text x="40" y="669">Stay tuned — private repos will go public soon! 🤫</text>
+    <!-- y = 295 + 270 + 10 = 575 -->
+    <rect x="20" y="585" width="435" height="50" rx="18" ry="18"/>
+    <text x="40" y="615">Stay tuned — private repos will go public soon! 🤫</text>
   </g>
   
   <!-- Message 7 -->
   <g class="bubble">
-    <rect x="20" y="690" width="310" height="50" rx="18" ry="18"/>
-    <text x="40" y="719">Feel free to connect on LinkedIn!</text>
+    <!-- y = 575 + 50 + 10 = 635 -->
+    <rect x="20" y="645" width="310" height="50" rx="18" ry="18"/>
+    <text x="40" y="675">Feel free to connect on LinkedIn!</text>
   </g>
 </svg>
