@@ -1,1 +1,1 @@
-![My Readme Design](path/to/readme-design.svg)
+![My Readme Design](readme-design.svg)
