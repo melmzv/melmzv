@@ -71,7 +71,7 @@
   <!-- Message 7 -->
   <g class="bubble">
     <!-- y = 595 + 50 + 7 = 652 -->
-    <rect x="5"  y="652" width="510" height="50" rx="18" ry="18"/>
-    <text  x="25" y="682">Open to collaboration — feel free to reach out on LinkedIn!</text>
+    <rect x="5"  y="652" width="430" height="50" rx="18" ry="18"/>
+    <text  x="25" y="682">Reach out on LinkedIn for a chat or collaboration!</text>
   </g>
 </svg>
