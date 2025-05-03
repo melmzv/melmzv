@@ -65,7 +65,7 @@
   <g class="bubble">
     <!-- y = 303 + 285 + 7 = 595 -->
     <rect x="5"  y="595" width="440" height="50" rx="18" ry="18"/>
-    <text  x="25" y="625">Stay tuned — private repos will go public soon! 🤫</text>
+    <text  x="25" y="625">More projects will be made public - stay tuned! 🤫</text>
   </g>
 
   <!-- Message 7 -->
