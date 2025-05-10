@@ -33,9 +33,9 @@
   <!-- Message 3 -->
   <g class="bubble">
     <!-- y = 57 + 75 + 7 = 139 -->
-    <rect x="5"  y="139" width="380" height="75" rx="18" ry="18"/>
+    <rect x="5"  y="139" width="415" height="75" rx="18" ry="18"/>
     <text  x="25" y="169">Currently kicking off my Master’s Thesis</text>
-    <text  x="25" y="199">in financial accounting at HU Berlin.</text>
+    <text  x="25" y="199">on investor perception of earnings using LLMs.</text>
   </g>
 
   <!-- Message 4 -->
