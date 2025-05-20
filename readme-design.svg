@@ -25,9 +25,9 @@
   <!-- Message 2 -->
   <g class="bubble">
     <!-- y = 0 + 50 + 7 = 57 -->
-    <rect x="5"  y="57"  width="415" height="75" rx="18" ry="18"/>
-    <text  x="25" y="87">I'm a Finance Specialist in Venture Capital,</text>
-    <text  x="25" y="117">exploring finance, accounting, and technology.</text>
+    <rect x="5"  y="57"  width="480" height="75" rx="18" ry="18"/>
+    <text  x="25" y="87">I'm a Finance Enthusiast with hands-on VC experience,</text>
+    <text  x="25" y="117">bridging finance, tech, and accounting.</text>
   </g>
 
   <!-- Message 3 -->
@@ -41,7 +41,7 @@
   <!-- Message 4 -->
   <g class="bubble">
     <!-- y = 139 + 75 + 7 = 221 -->
-    <rect x="5"  y="221" width="490" height="75" rx="18" ry="18"/>
+    <rect x="5"  y="221" width="476" height="75" rx="18" ry="18"/>
     <text  x="25" y="251">I work with Python, R, Stata, and ERP systems by day,</text>
     <text  x="25" y="281">and unwind by creating in Pixelmator. 📸</text>
   </g>
