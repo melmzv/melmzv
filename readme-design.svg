@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg"
      xmlns:xlink="http://www.w3.org/1999/xlink"
      width="580px"
-     height="750px"
+     height="810px"
      viewBox="0 0 550 700">
   <style>
     .bubble { fill: #e9e9eb; }
@@ -45,33 +45,33 @@
     <text  x="25" y="251">I work with Python, R, Stata, and ERP systems by day,</text>
     <text  x="25" y="281">and unwind by creating in Pixelmator. 📸</text>
   </g>
+<!-- Message 5 -->
+<g class="bubble">
+  <!-- y = 221 + 75 + 7 = 303 -->
+  <rect x="5"  y="303" width="485" height="315" rx="18" ry="18"/>
+  <text  x="25" y="333">Some of my latest academic projects on GitHub:</text>
+  <text  x="25" y="363">1. Audit market concentration in the EU</text>
+  <text  x="25" y="393">2. Earnings management and investor protection</text>
+  <text  x="25" y="423">3. ML-Powered Job Search: Results from an RCT</text>
+  <text  x="25" y="453">4. P/B ratios and future residual income</text>
+  <text  x="25" y="483">5. AI-enhanced satellite imagery in institutional</text>
+  <text  x="25" y="513">   lending decisions</text>
+  <text  x="25" y="543">6. Monetary Sentiment Dynamics: VADER Meets the Fed</text>
+  <text  x="25" y="573">🌐 💻 Inspired by reproducibility and transparency</text>
+  <text  x="25" y="603">principles of TRR 266.</text>
+</g>
 
-  <!-- Message 5 -->
-  <g class="bubble">
-    <!-- y = 221 + 75 + 7 = 303 -->
-    <rect x="5"  y="303" width="440" height="285" rx="18" ry="18"/>
-    <text  x="25" y="333">Some of my latest academic projects on GitHub:</text>
-    <text  x="25" y="363">1. Audit market concentration in the EU</text>
-    <text  x="25" y="393">2. Earnings management and investor protection</text>
-    <text  x="25" y="423">3. ML-Powered Job Search: Results from an RCT</text>
-    <text  x="25" y="453">4. P/B ratios and future residual income</text>
-    <text  x="25" y="483">5. AI-enhanced satellite imagery in institutional</text>
-    <text  x="25" y="513">   lending decisions</text>
-    <text  x="25" y="543">🌐 💻 Inspired by reproducibility and transparency</text>
-    <text  x="25" y="573">principles of TRR 266.</text>
-  </g>
+<!-- Message 6 -->
+<g class="bubble">
+  <!-- y = 303 + 315 + 7 = 625 -->
+  <rect x="5"  y="625" width="440" height="50" rx="18" ry="18"/>
+  <text  x="25" y="655">More projects will be made public – stay tuned! 🤫</text>
+</g>
 
-  <!-- Message 6 -->
-  <g class="bubble">
-    <!-- y = 303 + 285 + 7 = 595 -->
-    <rect x="5"  y="595" width="440" height="50" rx="18" ry="18"/>
-    <text  x="25" y="625">More projects will be made public - stay tuned! 🤫</text>
-  </g>
-
-  <!-- Message 7 -->
-  <g class="bubble">
-    <!-- y = 595 + 50 + 7 = 652 -->
-    <rect x="5"  y="652" width="430" height="50" rx="18" ry="18"/>
-    <text  x="25" y="682">Reach out on LinkedIn for a chat or collaboration!</text>
-  </g>
+<!-- Message 7 -->
+<g class="bubble">
+  <!-- y = 625 + 50 + 7 = 682 -->
+  <rect x="5"  y="682" width="430" height="50" rx="18" ry="18"/>
+  <text  x="25" y="712">Reach out on LinkedIn for a chat or collaboration!</text>
+</g>
 </svg>
