@@ -61,7 +61,7 @@
   <g class="bubble">
     <rect x="5" y="300" width="500" height="68" rx="18" ry="18"/>
     <text x="25" y="323">In my Master’s Thesis, I study the credibility of earnings</text>
-    <text x="25" y="345">headline sources using an LLM-supported controlled experiment.</text>
+    <text x="25" y="345">headline sourcesss using an LLM-supported controlled experiment.</text>
   </g>
 
   <!-- Message 6 (4 lines => h=112) -->
