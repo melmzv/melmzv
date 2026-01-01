@@ -70,8 +70,11 @@
 
 <!-- Message 7 -->
 <g class="bubble">
-  <!-- y = 625 + 50 + 7 = 682 -->
   <rect x="5"  y="682" width="430" height="50" rx="18" ry="18"/>
-  <text  x="25" y="712">Reach out on LinkedIn for a chat or collaboration!</text>
+
+  <a href="https://www.linkedin.com/in/melisamazaeva/" target="_blank" rel="noopener">
+    <text x="25" y="712">Reach out on LinkedIn for a chat or collaboration!</text>
+  </a>
 </g>
+     
 </svg>
