@@ -1,81 +1,76 @@
 <svg xmlns="http://www.w3.org/2000/svg"
-     xmlns:xlink="http://www.w3.org/1999/xlink"
-     width="580px"
-     height="600px"
-     viewBox="0 0 550 560">
-  <style>
-    .bubble { fill: #e9e9eb; }
-    text {
-      font-family: 'Inter', sans-serif;
-      font-size: 16px;
-      fill: #242424;
-      dominant-baseline: middle; /* vertical centering like iMessage */
-    }
-    .link {
-      fill: rgb(27 138 254);
-      text-decoration: underline;
-      cursor: pointer;
-    }
-    @media (prefers-color-scheme: dark) {
-      .bubble { fill: #3b3b3d; }
-      text   { fill: #dcdcdc; }
-    }
-  </style>
+xmlns:xlink="http://www.w3.org/1999/xlink"
+width="580px"
+height="600px"
+viewBox="0 0 550 560">
+<style>
+   .bubble { fill: #e9e9eb; }
+   text {
+     font-family: 'Inter', sans-serif;
+     font-size: 16px;
+     fill: #242424;
+     dominant-baseline: middle; /* vertical centering like iMessage */
+   }
+   .link {
+     fill: rgb(27 138 254);
+     text-decoration: underline;
+     cursor: pointer;
+   }
+   @media (prefers-color-scheme: dark) {
+     .bubble { fill: #3b3b3d; }
+     text   { fill: #dcdcdc; }
+   }
+ </style>
 
-  <!-- Spacing: gap=7, padY=12, lineHeight=22 -->
+<!-- Spacing: gap=7, padY=12, lineHeight=22 -->
 
-  <!-- Message 1 (text + bee gif inline) -->
-  <g class="bubble">
-    <!-- widened to fit text + gif -->
-    <rect x="5" y="0" width="265" height="46" rx="18" ry="18"/>
-    <text x="25" y="23">Hi, I'm Melisa!</text>
-    <!-- bee.gif (repo root) -->
-    <image x="182" y="11" width="24" height="24"
-           xlink:href="bee.gif"
-           preserveAspectRatio="xMidYMid meet" />
-  </g>
+<!-- Message 1 (1 line => h=46) -->
+<g class="bubble">
+    <rect x="5" y="0" width="140" height="46" rx="18" ry="18"/>
+<text x="25" y="23">Hi, I'm Melisa!</text>
+</g>
 
-  <!-- Message 2 (2 lines => h=68) -->
-  <g class="bubble">
-    <rect x="5" y="53" width="385" height="68" rx="18" ry="18"/>
-    <text x="25" y="76">I’m a curious researcher, finance enthusiast, and</text>
-    <text x="25" y="98">tech-savvy problem solver.</text>
-  </g>
+<!-- Message 2 (2 lines => h=68) -->
+<g class="bubble">
+<rect x="5" y="53" width="385" height="68" rx="18" ry="18"/>
+<text x="25" y="76">I’m a curious researcher, finance enthusiast, and</text>
+<text x="25" y="98">tech-savvy problem solver.</text>
+</g>
 
-  <!-- Message 3 (2 lines => h=68) -->
-  <g class="bubble">
-    <rect x="5" y="128" width="535" height="68" rx="18" ry="18"/>
-    <text x="25" y="151">I’m completing M.Sc. (Finance, Accounting &amp; Tech) at HU Berlin</text>
-    <text x="25" y="173">plus 5+ years in finance, accounting &amp; treasury in VC-backed startups.</text>
-  </g>
+<!-- Message 3 (2 lines => h=68) -->
+<g class="bubble">
+<rect x="5" y="128" width="535" height="68" rx="18" ry="18"/>
+<text x="25" y="151">I’m completing M.Sc. (Finance, Accounting &amp; Tech) at HU Berlin</text>
+<text x="25" y="173">plus 5+ years in finance, accounting &amp; treasury in VC-backed startups.</text>
+</g>
 
-  <!-- Message 4 (3 lines => h=90) -->
-  <g class="bubble">
-    <rect x="5" y="203" width="528" height="90" rx="18" ry="18"/>
-    <text x="25" y="226">I like building things: data pipelines, analyses, and finance workflows</text>
-    <text x="25" y="248">using Python/R/Stata + ERP. My skills in photography &amp; Pixelmator</text>
-    <text x="25" y="270">make my work more precise and visual.</text>
-  </g>
+<!-- Message 4 (3 lines => h=90) -->
+<g class="bubble">
+<rect x="5" y="203" width="528" height="90" rx="18" ry="18"/>
+<text x="25" y="226">I like building things: data pipelines, analyses, and finance workflows</text>
+<text x="25" y="248">using Python/R/Stata + ERP. My skills in photography &amp; Pixelmator</text>
+<text x="25" y="270">make my work more precise and visual.</text>
+</g>
 
-  <!-- Message 5 (2 lines => h=68) -->
-  <g class="bubble">
-    <rect x="5" y="300" width="500" height="68" rx="18" ry="18"/>
-    <text x="25" y="323">In my Master’s Thesis, I study the credibility of earnings</text>
-    <text x="25" y="345">headline sourcesss using an LLM-supported controlled experiment.</text>
-  </g>
+<!-- Message 5 (2 lines => h=68) -->
+<g class="bubble">
+<rect x="5" y="300" width="500" height="68" rx="18" ry="18"/>
+<text x="25" y="323">In my Master’s Thesis, I study the credibility of earnings</text>
+<text x="25" y="345">headline sources using an LLM-supported controlled experiment.</text>
+</g>
 
-  <!-- Message 6 (4 lines => h=112) -->
-  <g class="bubble">
-    <rect x="5" y="375" width="445" height="112" rx="18" ry="18"/>
-    <text x="25" y="398">See my recent work in the pinned repos below — for the</text>
-    <text x="25" y="420">full overview, visit my <tspan class="link">portfolio</tspan>.</text>
-    <text x="25" y="442">My workflow is inspired by reproducibility &amp; transparency</text>
-    <text x="25" y="464">principles of TRR 266.</text>
-  </g>
+<!-- Message 6 (4 lines => h=112) -->
+<g class="bubble">
+<rect x="5" y="375" width="445" height="112" rx="18" ry="18"/>
+<text x="25" y="398">See my recent work in the pinned repos below — for the</text>
+<text x="25" y="420">full overview, visit my <tspan class="link">portfolio</tspan>.</text>
+<text x="25" y="442">My workflow is inspired by reproducibility &amp; transparency</text>
+<text x="25" y="464">principles of TRR 266.</text>
+</g>
 
-  <!-- Message 7 (1 line => h=46) -->
-  <g class="bubble">
-    <rect x="5" y="494" width="410" height="46" rx="18" ry="18"/>
-    <text x="25" y="517">Click anywhere to open my <tspan class="link">portfolio</tspan> — let’s connect!</text>
-  </g>
+<!-- Message 7 (1 line => h=46) -->
+<g class="bubble">
+<rect x="5" y="494" width="410" height="46" rx="18" ry="18"/>
+<text x="25" y="517">Click anywhere to open my <tspan class="link">portfolio</tspan> — let’s connect!</text>
+</g>
 </svg>
