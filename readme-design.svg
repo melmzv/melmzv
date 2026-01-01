@@ -26,7 +26,7 @@
 
   <!-- Message 1 (1 line => h=46) -->
   <g class="bubble">
-    <rect x="5" y="0" width="175" height="46" rx="18" ry="18"/>
+    <rect x="5" y="0" width="140" height="46" rx="18" ry="18"/>
     <text x="25" y="23">Hi, I'm Melisa!</text>
   </g>
 
