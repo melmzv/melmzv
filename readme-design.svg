@@ -24,10 +24,15 @@
 
   <!-- Spacing: gap=7, padY=12, lineHeight=22 -->
 
-  <!-- Message 1 (1 line => h=46) -->
+  <!-- Message 1 (text + bee gif inline) -->
   <g class="bubble">
-    <rect x="5" y="0" width="140" height="46" rx="18" ry="18"/>
+    <!-- widened to fit text + gif -->
+    <rect x="5" y="0" width="265" height="46" rx="18" ry="18"/>
     <text x="25" y="23">Hi, I'm Melisa!</text>
+    <!-- bee.gif (repo root) -->
+    <image x="182" y="11" width="24" height="24"
+           xlink:href="bee.gif"
+           preserveAspectRatio="xMidYMid meet" />
   </g>
 
   <!-- Message 2 (2 lines => h=68) -->
