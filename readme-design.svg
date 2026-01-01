@@ -72,7 +72,7 @@
 <g class="bubble">
   <rect x="5"  y="682" width="430" height="50" rx="18" ry="18"/>
 
-  <a href="https://www.linkedin.com/in/melisamazaeva/" target="_blank" rel="noopener">
+  <a xlink:href="https://www.linkedin.com/in/melisamazaeva/" target="_blank" rel="noopener">
     <text x="25" y="712">Reach out on LinkedIn for a chat or collaboration!</text>
   </a>
 </g>
