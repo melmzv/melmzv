@@ -1,8 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg"
      xmlns:xlink="http://www.w3.org/1999/xlink"
      width="580px"
-     height="750px"
-     viewBox="0 0 550 700">
+     height="600px"
+     viewBox="0 0 550 560">
   <style>
     .bubble { fill: #e9e9eb; }
     text {
