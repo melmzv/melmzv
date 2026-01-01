@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg"
      xmlns:xlink="http://www.w3.org/1999/xlink"
      width="580px"
-     height="810px"
+     height="750px"
      viewBox="0 0 550 700">
   <style>
     .bubble { fill: #e9e9eb; }
@@ -32,7 +32,7 @@
 
   <!-- Message 2 (2 lines => h=68) -->
   <g class="bubble">
-    <rect x="5" y="53" width="525" height="68" rx="18" ry="18"/>
+    <rect x="5" y="53" width="385" height="68" rx="18" ry="18"/>
     <text x="25" y="76">I’m a curious researcher, finance enthusiast, and</text>
     <text x="25" y="98">tech-savvy problem solver.</text>
   </g>
@@ -46,7 +46,7 @@
 
   <!-- Message 4 (3 lines => h=90) -->
   <g class="bubble">
-    <rect x="5" y="203" width="535" height="90" rx="18" ry="18"/>
+    <rect x="5" y="203" width="528" height="90" rx="18" ry="18"/>
     <text x="25" y="226">I like building things: data pipelines, analyses, and finance workflows</text>
     <text x="25" y="248">using Python/R/Stata + ERP. My skills in photography &amp; Pixelmator</text>
     <text x="25" y="270">make my work more precise and visual.</text>
@@ -54,23 +54,23 @@
 
   <!-- Message 5 (2 lines => h=68) -->
   <g class="bubble">
-    <rect x="5" y="300" width="535" height="68" rx="18" ry="18"/>
+    <rect x="5" y="300" width="500" height="68" rx="18" ry="18"/>
     <text x="25" y="323">In my Master’s Thesis, I study the credibility of earnings</text>
     <text x="25" y="345">headline sources using an LLM-supported controlled experiment.</text>
   </g>
 
   <!-- Message 6 (4 lines => h=112) -->
   <g class="bubble">
-    <rect x="5" y="375" width="535" height="112" rx="18" ry="18"/>
-    <text x="25" y="398">See my recent work in the pinned repos below —</text>
-    <text x="25" y="420">for the full overview, visit my <tspan class="link">portfolio</tspan>.</text>
+    <rect x="5" y="375" width="445" height="112" rx="18" ry="18"/>
+    <text x="25" y="398">See my recent work in the pinned repos below — for the</text>
+    <text x="25" y="420">full overview, visit my <tspan class="link">portfolio</tspan>.</text>
     <text x="25" y="442">My workflow is inspired by reproducibility &amp; transparency</text>
     <text x="25" y="464">principles of TRR 266.</text>
   </g>
 
   <!-- Message 7 (1 line => h=46) -->
   <g class="bubble">
-    <rect x="5" y="494" width="530" height="46" rx="18" ry="18"/>
+    <rect x="5" y="494" width="410" height="46" rx="18" ry="18"/>
     <text x="25" y="517">Click anywhere to open my <tspan class="link">portfolio</tspan> — let’s connect!</text>
   </g>
 </svg>
